@@ -1,0 +1,2 @@
+# ExpoDailySoft
+Para la exposición.
